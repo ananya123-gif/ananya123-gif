@@ -1,4 +1,4 @@
-![Hello](Hello.gif)
+![Hello 1](Hello1.gif)
 
 
 <h1 align="center">Hi 👋, I'm Ananya Shukla</h1>
